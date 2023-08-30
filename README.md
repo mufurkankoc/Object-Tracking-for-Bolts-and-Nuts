@@ -1,5 +1,5 @@
 # Description
- - This repo has been created for Stroma Vision company technical interview.  
+ - This repo has been created for individual training purpose 
  - The bolts and nuts displayed in the video are detected with the developed software. (YoloV8 was preferred for modelling.)  
  - The bounding boxes are drawn around these detections. 
  - Each detection is tracked, counted and marked upon the object in the flowing frames.  
